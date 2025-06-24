@@ -8,6 +8,13 @@ A simple Flutter notes app using **GetX** for state management and **GetStorage*
 - State Management Reactive with GetX (`RxList`, `Obx`)
 - Navigation Between Pages With GetX Route
 
+## Image
+
+![App Screenshot](assets/images/screenshot1.jpg)
+![App Screenshot](assets/images/screenshot2.jpg)
+![App Screenshot](assets/images/screenshot3.jpg)
+![App Screenshot](assets/images/screenshot4.jpg)
+
 
 ## Kontributor
 
